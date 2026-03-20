@@ -153,7 +153,6 @@ All graphs are displayed below for easy access.
 ---
 
 # 📌 Notes
-- All visualizations are generated using **Matplotlib**
 - These plots help analyze:
   - Model convergence
   - Optimizer performance
