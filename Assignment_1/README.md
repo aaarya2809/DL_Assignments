@@ -1,4 +1,4 @@
-<img width="661" height="127" alt="image" src="https://github.com/user-attachments/assets/a78c72f1-0b27-4ff6-9cce-3429b4db4bc5" /># 📌 Assignment 1: Neural Network for Cooling Load Prediction
+# 📌 Assignment 1: Neural Network for Cooling Load Prediction
 
 ## 👨‍🎓 Student Details
 - **Name:** Aarya Malghe  
