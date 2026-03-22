@@ -91,6 +91,7 @@ This assignment focuses on implementing a Neural Network from scratch to predict
 - README.md  
 
 ---
+##Colab link :- https://colab.research.google.com/drive/1-nyWfC4k5fh6tHqs_wgtJzOzwdxL1HMG?usp=sharing
 
 ## ▶️ How to Run
 
