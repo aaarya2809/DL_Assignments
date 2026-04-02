@@ -25,7 +25,7 @@ The research paper focuses on improving the robustness of Convolutional Neural N
 ## 📂 Dataset
 
 * **Dataset Used:** CIFAR-10
-* **Link:** https://www.cs.toronto.edu/~kriz/cifar.html
+* **Link:** https://www.cs.toronto.edu/~kriz/cifar.html or https://www.kaggle.com/datasets/ayush1220/cifar10?utm_source=chatgpt.com
 
 ### 📊 Dataset Description
 
