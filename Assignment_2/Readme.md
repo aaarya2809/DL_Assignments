@@ -178,7 +178,7 @@ The following visualizations are included:
 
 ## 🔗 GitHub Repository
 
-(Add your GitHub repo link here)
+https://github.com/aaarya2809/DL_Assignments/tree/main/Assignment_2
 
 ---
 
